@@ -70,11 +70,11 @@ GitHub: https://github.com/89996462
 
 | &nbsp; | 项目 | 简介 | 技术栈 |
 |:---:|:---|:---|:---:|
-| <img src="https://github.com/89996462/89996462/blob/main/Quantumult%20X.JPG?raw=true" width="32" height="32"> | [**Quantumult X**](https://github.com/89996462/Quantumult-X) | 各种脚本规则大全 | `JavaScript` |
-| <img src="https://github.com/89996462/89996462/blob/main/HTTP-Catcher.JPG?raw=true" width="32" height="32"> | [**HTTP-Catcher**](https://github.com/89996462/HTTP-Catcher) | 各种脚本规则大全 | `JavaScript` |
-| <img src="https://github.com/89996462/89996462/blob/main/Storm-Sniffer.JPG?raw=true" width="32" height="32"> | [**Storm-Sniffer**](https://github.com/89996462/Storm-Sniffer) | 各种脚本规则大全 | `JavaScript` |
+| <img src="https://github.com/89996462/89996462/blob/main/Quantumult%20X.JPG?raw=true" width="32" height="32"> | [**Quantumult X**](https://github.com/89996462/Quantumult-X) | 各种脚本去广告破解规则大全 | `JavaScript` |
+| <img src="https://github.com/89996462/89996462/blob/main/HTTP-Catcher.JPG?raw=true" width="32" height="32"> | [**HTTP-Catcher**](https://github.com/89996462/HTTP-Catcher) | 各种脚本去广告破解规则大全 | `JavaScript` |
+| <img src="https://github.com/89996462/89996462/blob/main/Storm-Sniffer.JPG?raw=true" width="32" height="32"> | [**Storm-Sniffer**](https://github.com/89996462/Storm-Sniffer) | 各种脚本去广告破解规则大全 | `JavaScript` |
 | <img src="https://github.com/89996462/89996462/blob/main/keypatch.jpg?raw=true" width="32" height="32"> | [**keypatch**](https://github.com/89996462/keypatch) | IDA Pro 多架构汇编插件 | `Python` |
-| <img src="https://github.com/89996462/89996462/blob/main/Script-conversion.png?raw=true" width="32" height="32"> | [**Script-conversion**](https://github.com/89996462/Script-conversion) | 脚本格式转换工具 | `JavaScript` |
+| <img src="https://github.com/89996462/89996462/blob/main/Script-conversion.png?raw=true" width="32" height="32"> | [**Script-conversion**](https://github.com/89996462/Script-conversion) | 各种脚本格式在线转换工具 | `JavaScript` |
 
 </div>
 
@@ -84,15 +84,24 @@ GitHub: https://github.com/89996462
 
 <div align="center">
 
-| 方向 | 标签 |
-|:---:|:---:|
-| 📱 | ![移动开发](https://img.shields.io/badge/移动应用开发-blue?style=flat-square) ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square) |
-| 🍎 | ![iOS](https://img.shields.io/badge/iOS/macOS%20开发-gray?style=flat-square) ![越狱](https://img.shields.io/badge/越狱插件-orange?style=flat-square) |
-| 🌐 | ![前端](https://img.shields.io/badge/前端开发-green?style=flat-square) ![React](https://img.shields.io/badge/React-blue?style=flat-square) ![Vue](https://img.shields.io/badge/Vue-green?style=flat-square) |
-| 🔧 | ![后端](https://img.shields.io/badge/后端服务-red?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square) ![Go](https://img.shields.io/badge/Go-blue?style=flat-square) |
-| 🤖 | ![AI](https://img.shields.io/badge/人工智能-purple?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat-square) |
-| 🔍 | ![逆向](https://img.shields.io/badge/逆向工程-darkblue?style=flat-square) ![安全](https://img.shields.io/badge/安全研究-red?style=flat-square) |
-| 🛡 | ![网络安全](https://img.shields.io/badge/网络安全-red?style=flat-square) ![工具开发](https://img.shields.io/badge/工具开发-blue?style=flat-square) |
+![移动开发](https://img.shields.io/badge/移动应用开发-blue?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square)
+![iOS](https://img.shields.io/badge/iOS/macOS%20开发-gray?style=flat-square)
+![越狱](https://img.shields.io/badge/越狱插件-orange?style=flat-square)
+![前端](https://img.shields.io/badge/前端开发-green?style=flat-square)
+![React](https://img.shields.io/badge/React-blue?style=flat-square)
+![Vue](https://img.shields.io/badge/Vue-green?style=flat-square)
+![后端](https://img.shields.io/badge/后端服务-red?style=flat-square)
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square)
+![Go](https://img.shields.io/badge/Go-blue?style=flat-square)
+![AI](https://img.shields.io/badge/人工智能-purple?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat-square)
+![逆向](https://img.shields.io/badge/逆向工程-darkblue?style=flat-square)
+![安全](https://img.shields.io/badge/安全研究-red?style=flat-square)
+![网络安全](https://img.shields.io/badge/网络安全-red?style=flat-square)
+![工具开发](https://img.shields.io/badge/工具开发-blue?style=flat-square)
 
 </div>
 
